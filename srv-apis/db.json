@@ -1,0 +1,23 @@
+{
+  "comidas": [
+    {
+      "id" : 0,
+      "name" : "Strogonoff de Frango",
+      "description" : "Um delicioso prato para o almoço de domingo.",
+      "image": "../docs/images/strogonoff-de-frango.png"
+    },
+  
+    {
+      "id" : 1,
+      "name" : "Pão de Forma Caseiro",
+      "description" : "Uma otima opção para o café da manhã.",
+      "image": "../docs/images/paoforma.jpg"
+    },
+    {
+      "id" : 2,
+      "name" : "Bolo de cenoura",
+      "description" : "Nada melhor que um bolo de cenoura para o lanche da tarde.",
+      "image": "../backend/docs/images/bolo.jpg"
+    }
+  ]
+}
